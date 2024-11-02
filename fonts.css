@@ -1,0 +1,80 @@
+/*
+Fonts for PJai Su
+*/
+@font-face {
+     font-family: 'Ethnocentric';
+     src: url('../fonts/Ethnocentric.ttf') format('truetype'),
+          url('../fonts/Ethnocentric.woff2') format('woff2');
+   }
+
+@font-face {
+    font-family: 'GHK TaungGyi';
+    src: url('../fonts/GHK_TaungGyi.ttf') format('truetype'),
+         url('../fonts/GHK_TaungGyi.woff2') format('woff2');
+  }
+  
+@font-face {
+    font-family: 'GHK Muse';
+    src: url('../fonts/GHK_Muse.ttf') format('truetype'),
+         url('../fonts/GHK_Muse.woff2') format('woff2');
+  }
+    
+@font-face {
+    font-family: 'GHK KengTung';
+    src: url('../fonts/GHK_KengTung.ttf') format('truetype'),
+         url('../fonts/GHK_KengTung.woff2') format('woff2');
+  }
+    
+@font-face {
+    font-family: 'GHK Tachileik';
+    src: url('../fonts/GHK_Tachileik.ttf') format('truetype'),
+         url('../fonts/GHK_Tachileik.woff2') format('woff2');
+  }
+       
+@font-face {
+    font-family: 'A J Kunheing 9';
+    src: url('../fonts/A_J_Kunheing_9.ttf') format('truetype'),
+         url('../fonts/A_J_Kunheing_9.woff2') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'A J Kunheing 16';
+    src: url('../fonts/A_J_Kunheing_16.ttf') format('truetype'),
+         url('../fonts/A_J_Kunheing_16.woff2') format('woff2');
+  }
+      
+@font-face {
+    font-family: 'A J Kunheing E-T-M 00';
+    src: url('../fonts/A_J_Kunheing_E-T-M_00.ttf') format('truetype'),
+         url('../fonts/A_J_Kunheing_E-T-M_00.woff2') format('woff2');
+  }
+      
+@font-face {
+    font-family: 'A J Kunheing E-T-M 02';
+    src: url('../fonts/A_J_Kunheing_E-T-M_02.ttf') format('truetype'),
+         url('../fonts/A_J_Kunheing_E-T-M_02.woff2') format('woff2');
+  }
+      
+@font-face {
+    font-family: 'A J Kunheing E-T-M 03';
+    src: url('../fonts/A_J_Kunheing_E-T-M_03.ttf') format('truetype'),
+         url('../fonts/A_J_Kunheing_E-T-M_03.woff2') format('woff2');
+  }
+      
+@font-face {
+    font-family: 'Arial Black';
+    src: url('../fonts/Arial_Black.ttf') format('truetype'),
+         url('../fonts/Arial_Black.woff2') format('woff2');
+  }
+      
+@font-face {
+    font-family: 'KLO SHAN UNI';
+    src: url('../fonts/KLO_SHAN_UNI.ttf') format('truetype'),
+         url('../fonts/KLO_SHAN_UNI.woff2') format('woff2');
+  }
+      
+@font-face {
+    font-family: 'Myanmar Pyay';
+    src: url('../fonts/Myanmar_Pyay.ttf') format('truetype'),
+         url('../fonts/Myanmar_Pyay.woff2') format('woff2');
+  }
